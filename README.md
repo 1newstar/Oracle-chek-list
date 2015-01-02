@@ -1,7 +1,7 @@
-Oracle-chek-list
+Oracle Chek List
 ================
 
-oracle security check list 
+Oracle Security Check List for DBAs/Anyone :)
 
 * Oracle Security Hardening Guide
 * Vulnerabilities Patches
